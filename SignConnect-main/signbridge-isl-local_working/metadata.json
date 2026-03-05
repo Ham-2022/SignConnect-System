@@ -1,0 +1,9 @@
+
+{
+  "name": "SignBridge ISL Local",
+  "description": "Deterministic local ISL interpreter using on-device ML heuristics. 100% Free & Local Architecture.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
